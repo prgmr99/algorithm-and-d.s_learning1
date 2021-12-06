@@ -27,5 +27,8 @@
     <ClCompile Include="quick_sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="basic_questions.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
