@@ -30,5 +30,8 @@
     <ClCompile Include="basic_questions.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="merge_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
